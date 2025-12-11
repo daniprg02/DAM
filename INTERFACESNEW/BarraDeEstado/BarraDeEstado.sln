@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarraDeEstado", "BarraDeEstado.csproj", "{FA870E52-8DFD-45CE-BA31-44D6E67CD4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA870E52-8DFD-45CE-BA31-44D6E67CD4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA870E52-8DFD-45CE-BA31-44D6E67CD4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA870E52-8DFD-45CE-BA31-44D6E67CD4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA870E52-8DFD-45CE-BA31-44D6E67CD4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2D6DAF-59A6-4608-9114-1E3464280707}
+	EndGlobalSection
+EndGlobal

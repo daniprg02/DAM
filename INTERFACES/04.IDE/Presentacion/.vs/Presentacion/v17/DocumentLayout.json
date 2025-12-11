@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interfaces\\04.IDE\\Presentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB69455B-16C6-4459-8CC3-7C928A27D042}|Presentacion\\Presentacion.csproj|d:\\interfaces\\04.ide\\presentacion\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB69455B-16C6-4459-8CC3-7C928A27D042}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB69455B-16C6-4459-8CC3-7C928A27D042}|Presentacion\\Presentacion.csproj|d:\\interfaces\\04.ide\\presentacion\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB69455B-16C6-4459-8CC3-7C928A27D042}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB69455B-16C6-4459-8CC3-7C928A27D042}|Presentacion\\Presentacion.csproj|d:\\interfaces\\04.ide\\presentacion\\presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB69455B-16C6-4459-8CC3-7C928A27D042}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F8093-7FB9-4770-A459-013F2714C8D5}|Negocio\\Negocio.csproj|d:\\interfaces\\04.ide\\presentacion\\negocio\\management\\pruebadeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F8093-7FB9-4770-A459-013F2714C8D5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\management\\pruebadeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E363E-87D7-4754-BED5-F7C4F703CA90}|Datos\\Datos.csproj|d:\\interfaces\\04.ide\\presentacion\\datos\\repositorys\\pruebadeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E363E-87D7-4754-BED5-F7C4F703CA90}|Datos\\Datos.csproj|solutionrelative:datos\\repositorys\\pruebadeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Interfaces\\04.IDE\\Presentacion\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "D:\\Interfaces\\04.IDE\\Presentacion\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:54:42.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Interfaces\\04.IDE\\Presentacion\\Presentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.Designer.cs",
+              "ToolTip": "D:\\Interfaces\\04.IDE\\Presentacion\\Presentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "Presentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:40:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Interfaces\\04.IDE\\Presentacion\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "D:\\Interfaces\\04.IDE\\Presentacion\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:24:33.917Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PruebaDeConexion.cs",
+              "DocumentMoniker": "D:\\Interfaces\\04.IDE\\Presentacion\\Negocio\\Management\\PruebaDeConexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Management\\PruebaDeConexion.cs",
+              "ToolTip": "D:\\Interfaces\\04.IDE\\Presentacion\\Negocio\\Management\\PruebaDeConexion.cs",
+              "RelativeToolTip": "Negocio\\Management\\PruebaDeConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:28:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaDeConexion.cs",
+              "DocumentMoniker": "D:\\Interfaces\\04.IDE\\Presentacion\\Datos\\Repositorys\\PruebaDeConexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Repositorys\\PruebaDeConexion.cs",
+              "ToolTip": "D:\\Interfaces\\04.IDE\\Presentacion\\Datos\\Repositorys\\PruebaDeConexion.cs",
+              "RelativeToolTip": "Datos\\Repositorys\\PruebaDeConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:29:08.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

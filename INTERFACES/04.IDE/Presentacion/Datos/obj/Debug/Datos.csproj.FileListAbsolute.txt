@@ -1,0 +1,12 @@
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\Datos.dll
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\Datos.pdb
+D:\Interfaces\04.IDE\Presentacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Interfaces\04.IDE\Presentacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Interfaces\04.IDE\Presentacion\Datos\obj\Debug\Datos.dll
+D:\Interfaces\04.IDE\Presentacion\Datos\obj\Debug\Datos.pdb
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\Datos.dll.config
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\EntityFramework.dll
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\EntityFramework.xml
+D:\Interfaces\04.IDE\Presentacion\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Interfaces\04.IDE\Presentacion\Datos\obj\Debug\Datos.csproj.Up2Date

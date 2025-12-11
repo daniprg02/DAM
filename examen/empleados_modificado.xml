@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+      
+    <libro disponible="true" genero="Novela" id="L-001">
+            
+        <titulo>La sombra del viento</titulo>
+            
+        <autor>Carlos Ruiz Zafón</autor>
+            
+        <anio_publicacion>2001</anio_publicacion>
+            
+        <editorial>Planeta</editorial>
+            
+        <prestamos>
+                  
+            <prestamo fecha="2025-03-10" usuario="U-045"/>
+                  
+            <prestamo fecha="2025-06-22" usuario="U-078"/>
+                
+        </prestamos>
+          
+    </libro>
+      
+    <libro disponible="false" genero="Ensayo" id="L-002">
+            
+        <titulo>Sapiens</titulo>
+            
+        <autor>Yuval Noah Harari</autor>
+            
+        <anio_publicacion>2011</anio_publicacion>
+            
+        <editorial>Debate</editorial>
+            
+        <prestamos>
+                  
+            <prestamo fecha="2025-07-05" usuario="U-103"/>
+                
+        </prestamos>
+          
+    </libro>
+      
+    <libro disponible="true" genero="Distopía" id="L-003">
+            
+        <titulo>1984</titulo>
+            
+        <autor>George Orwell</autor>
+            
+        <anio_publicacion>1949</anio_publicacion>
+            
+        <editorial>Secker &amp; Warburg</editorial>
+            
+        <prestamos/>
+          
+    </libro>
+    
+</libros>

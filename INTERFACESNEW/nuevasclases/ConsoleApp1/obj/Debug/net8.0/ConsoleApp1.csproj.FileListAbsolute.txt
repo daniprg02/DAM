@@ -1,0 +1,14 @@
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\INTERFACESNEW\nuevasclases\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

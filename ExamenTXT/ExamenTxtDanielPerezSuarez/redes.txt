@@ -1,0 +1,29 @@
+=== EQUIPO-REDES ===
+Reparación;Fibra cortada en tramo 4;red;45;Finalizado
+Inspección;Medición de señal troncal;red;30;Pendiente
+Configuración;Ajuste de VLAN corporativa;red;25;Finalizado
+Prueba;Test de latencia en nodo A;red;15;Finalizado
+END
+
+=== EQUIPO-SISTEMAS ===
+Instalación;Servidor DNS secundario;sistemas;60;Finalizado
+Migración;Actualización de kernel;sistemas;90;Finalizado
+Revisión;Logs del firewall;sistemas;20;Pendiente
+Diagnóstico;Errores de kernel dump;sistemas;40;Pendiente
+Parcheo;Actualización crítica de seguridad;sistemas;35;Finalizado
+END
+
+=== EQUIPO-SOFTWARE ===
+Depuración;Error null pointer en módulo X;software;50;Finalizado
+Compilación;Optimizar tiempo de build;software;25;Finalizado
+Prueba;Tests unitarios módulo Y;software;40;Pendiente
+Corrección;Bug en interfaz gráfica;software;30;Finalizado
+Refactorización;Código legado módulo Z;software;80;Pendiente
+END
+
+=== EQUIPO-MOVIL ===
+Reparación;Pantalla sin respuesta;movil;35;Finalizado
+Reemplazo;Batería defectuosa;movil;20;Finalizado
+Diagnóstico;Antena sin señal;movil;15;Pendiente
+Reparación;Conector USB roto;movil;40;Finalizado
+END

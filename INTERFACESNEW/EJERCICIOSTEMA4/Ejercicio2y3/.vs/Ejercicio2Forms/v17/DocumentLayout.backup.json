@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|d:\\interfacesnew\\ejerciciostema4\\ejercicio2forms\\nuevoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|solutionrelative:nuevoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|d:\\interfacesnew\\ejerciciostema4\\ejercicio2forms\\nuevoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|solutionrelative:nuevoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|d:\\interfacesnew\\ejerciciostema4\\ejercicio2forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C168296-F6BD-4D65-9849-8D307797254D}|Ejercicio2Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuevoForm.cs",
+              "DocumentMoniker": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\NuevoForm.cs",
+              "RelativeDocumentMoniker": "NuevoForm.cs",
+              "ToolTip": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\NuevoForm.cs",
+              "RelativeToolTip": "NuevoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:24:17.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NuevoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\NuevoForm.cs",
+              "RelativeDocumentMoniker": "NuevoForm.cs",
+              "ToolTip": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\NuevoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NuevoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:23:44.276Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:16:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\INTERFACESNEW\\EJERCICIOSTEMA4\\Ejercicio2Forms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:12:47.822Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

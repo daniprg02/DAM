@@ -1,0 +1,145 @@
+15-9-2025
+Advertencia   Redondeo altera el resultado        matematicas
+Confirmación  Etiquetado POS consistente          lenguaje
+Confirmación  Underflow en exponencial            matematicas
+Advertencia   Integral definida sin convergencia  matematicas
+Advertencia   Datos no cumplen normalidad         matematicas
+Advertencia   Paráfrasis aprobada                 lenguaje
+Confirmación  Ecuación sin solución real          matematicas
+Advertencia   TLS certificado caducado            informatica
+Error         Texto cargado correctamente         lenguaje
+Confirmación  Underflow en exponencial            matematicas
+Error         Tiempo de espera excedido           informatica
+Error         Redondeo altera el resultado        matematicas
+Error         Redondeo altera el resultado        matematicas
+Error         Backup completado con verificación  informatica
+Advertencia   Cola de mensajes saturada           informatica
+Advertencia   Lectura fácil optimizada            lenguaje
+Confirmación  Matrices no son compatibles         matematicas
+Confirmación  Frase demasiado ambigua             lenguaje
+Advertencia   Oración sin verbo principal         lenguaje
+Confirmación  Variable sin dimensión asignada     matematicas
+Advertencia   Dependencia no resuelta             informatica
+Error         Vector no normalizado a unidad      matematicas
+Confirmación  Clave duplicada en tabla            informatica
+Error         Raíz negativa en logaritmo          matematicas
+Confirmación  Vector no normalizado a unidad      matematicas
+Confirmación  Oración sin verbo principal         lenguaje
+Confirmación  Entidad nombrada mal clasificada    lenguaje
+Confirmación  Caracteres invisibles eliminados    lenguaje
+Error         Matriz singular detectada           matematicas
+Confirmación  Contenedor reiniciado por OOMKill   informatica
+Confirmación  Aproximación por Taylor deficiente  matematicas
+Advertencia   Resultado impreciso en límite       matematicas
+Error         Permisos insuficientes              informatica
+
+16-9-2025
+Advertencia   Paso de integración  grande matematicas
+Error         Expresión regular no coincide       lenguaje
+Error         Estilo consistente aplicado         lenguaje
+Error         Lematización revisada               lenguaje
+Advertencia   Versión incompatible de librería    informatica
+Confirmación  Etiquetado POS consistente          lenguaje
+Confirmación  Se aplicó migración de esquema      informatica
+Confirmación  Reintento exitoso de petición       informatica
+Advertencia   Fallo en conversión de tipo         informatica
+Error         Acentuación fuera de norma          lenguaje
+Advertencia   Serie no cumple criterio de Cauchy  matematicas
+Advertencia   Marca de diálogo cerrada            lenguaje
+Advertencia   Lectura fácil optimizada            lenguaje
+Confirmación  Cola de mensajes saturada           informatica
+Error         Paráfrasis aprobada                 lenguaje
+Confirmación  Índice de matriz fuera de rango     matematicas
+Confirmación  Segmentación de párrafos corregida  lenguaje
+Error         Puntuación mejorada                 lenguaje
+Error         Conexión a base de datos falló      informatica
+Advertencia   Ruta de archivo no válida           informatica
+Advertencia   Sinónimos sustituidos               lenguaje
+Confirmación  Pérdida de precisión en double      matematicas
+Confirmación  Hipervínculos validados             lenguaje
+Advertencia   Ángulo fuera del dominio trig       matematicas
+Confirmación  Pivoteo parcial requerido           matematicas
+Confirmación  Aproximación por Taylor deficiente  matematicas
+Advertencia   Error lógico en bucle               informatica
+Error         Versión incompatible de librería    informatica
+Advertencia   Paso de integración demasiado grandematematicas
+Advertencia   Mínimo local en vez de global       matematicas
+
+17-9-2025
+Confirmación  Sistema de ecuaciones inestable     matematicas
+Confirmación  Regresión con R² sospechoso         matematicas
+Advertencia   Normalización aplicada              lenguaje
+Confirmación  Marca de diálogo cerrada            lenguaje
+Confirmación  Derivada parcial mal evaluada       matematicas
+Error         Estilo consistente aplicado         lenguaje
+Confirmación  Frase demasiado ambigua             lenguaje
+Confirmación  TLS certificado caducado            informatica
+Advertencia   Variable sin dimensión asignada     matematicas
+Error         División por cero detectada         matematicas
+Confirmación  Codificación UTF-8 inválida         lenguaje
+Advertencia   Texto cargado correctamente         lenguaje
+Confirmación  Cálculo verificado con tolerancia   matematicas
+Advertencia   Resultado impreciso en límite       matematicas
+Advertencia   Tarea finalizó sin errores          informatica
+Error         Mínimo local en vez de global       matematicas
+Confirmación  Sistema de ecuaciones inestable     matematicas
+Confirmación  Referencias bibliográficas OK       lenguaje
+Advertencia   Config cargada desde valores por defecto informatica
+Advertencia   Límite de memoria superado          informatica
+Confirmación  Underflow en exponencial            matematicas
+Error         Servicio reiniciado correctamente   informatica
+Confirmación  Índice fuera de los límites         informatica
+Confirmación  Ambigüedad semántica detectada      lenguaje
+Error         Suma de Riemann mal definida        matematicas
+Advertencia   Derivada parcial mal evaluada       matematicas
+Confirmación  Cota inferior no respetada          matematicas
+Error         Factorización incorrecta de polinomiomatematicas
+Error         Versión incompatible de librería    informatica
+Error         Solución converge lentamente        matematicas
+Advertencia   Ecuación sin solución real          matematicas
+Advertencia   Unidad inconsistente en fórmula     matematicas
+Error         Mínimo local en vez de global       matematicas
+Advertencia   Reintento exitoso de petición       informatica
+Advertencia   Matriz singular detectada           matematicas
+Error         Intervalo mal cerrado en suma       matematicas
+Error         Driver no soporta la operación      informatica
+Confirmación  Paráfrasis aprobada                 lenguaje
+
+18-9-2025
+Confirmación  Mayúsculas normalizadas             lenguaje
+Advertencia   Matrices no son compatibles         matematicas
+Advertencia   Gráfico coincide con esperado       matematicas
+Confirmación  Palabra sin concordancia            lenguaje
+Error         Palabra sin concordancia            lenguaje
+Confirmación  Regresión con R² sospechoso         matematicas
+Confirmación  Entidad nombrada mal clasificada    lenguaje
+Confirmación  Integral definida sin convergencia  matematicas
+Advertencia   Operador no lineal mal aplicado     matematicas
+Confirmación  Unidad inconsistente en fórmula     matematicas
+Advertencia   Logs rotados correctamente          informatica
+Confirmación  Operador no lineal mal aplicado     matematicas
+Confirmación  Integral definida sin convergencia  matematicas
+Confirmación  Se aplicó migración de esquema      informatica
+Confirmación  Diccionario no disponible           lenguaje
+Advertencia   Carrera de datos evidente           informatica
+Error         Iteraciones superan umbral          matematicas
+Confirmación  Pérdida de precisión en double      matematicas
+Error         Función sin retorno definido        informatica
+Error         Desigualdad triang mal usada        matematicas
+Advertencia   Oración sin verbo principal         lenguaje
+Advertencia   Sinónimos sustituidos               lenguaje
+Advertencia   Entrada no cumple esquema JSON      informatica
+Advertencia   Ángulo fuera del dominio trig       matematicas
+Advertencia   TLS certificado caducado            informatica
+Confirmación  Glosario sincronizado               lenguaje
+Confirmación  Morfología reanalizada              lenguaje
+Confirmación  Solución converge lentamente        matematicas
+Confirmación  Límite de memoria superado          informatica
+Error         Índice de matriz fuera de rango     matematicas
+Confirmación  Solución converge lentamente        matematicas
+Error         Matrices no son compatibles         matematicas
+Advertencia   Palabra fuera del vocabulario       lenguaje
+Confirmación  Intervalo mal cerrado en suma       matematicas
+Error         Normalización aplicada              lenguaje
+Advertencia   Underflow en exponencial            matematicas
+Advertencia   Variable no inicializada            informatica

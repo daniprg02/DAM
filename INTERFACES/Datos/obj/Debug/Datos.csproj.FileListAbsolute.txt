@@ -1,0 +1,12 @@
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\Datos.dll
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\Datos.pdb
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\obj\Debug\Datos.dll
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\obj\Debug\Datos.pdb
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\Datos.dll.config
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\EntityFramework.dll
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\EntityFramework.xml
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\Desktop\DAMTrabajar\Interfaces\Datos\obj\Debug\Datos.csproj.Up2Date

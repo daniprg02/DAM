@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca ciudad="Madrid" nombre="Central">
+        
+    <seccion categoria="Ciencia Ficción">
+                
+        <libro codigo="SF-101" disponible="true">
+                        
+            <titulo>Dune</titulo>
+                        
+            <autor>Frank Herbert</autor>
+                        
+            <publicacion>
+                                
+                <anio>1965</anio>
+                                
+                <editorial>Chilton Books</editorial>
+                            
+            </publicacion>
+                        
+            <historial>
+                                
+                <prestamo fecha_devolucion="2025-02-01" fecha_salida="2025-01-12" usuario="U-210"/>
+                                
+                <prestamo fecha_devolucion="2025-04-05" fecha_salida="2025-03-18" usuario="U-344"/>
+                            
+            </historial>
+                    
+        </libro>
+                
+        <libro codigo="SF-102" disponible="false">
+                        
+            <titulo>Neuromancer</titulo>
+                        
+            <autor>William Gibson</autor>
+                        
+            <publicacion>
+                                
+                <anio>1984</anio>
+                                
+                <editorial>Ace</editorial>
+                            
+            </publicacion>
+                        
+            <historial>
+                                
+                <prestamo fecha_salida="2025-07-02" usuario="U-199"/>
+                            
+            </historial>
+                    
+        </libro>
+            
+    </seccion>
+        
+    <seccion categoria="Historia">
+                
+        <libro codigo="H-201" disponible="true">
+                        
+            <titulo>El origen de las civilizaciones</titulo>
+                        
+            <autor>Jean Bottéro</autor>
+                        
+            <publicacion>
+                                
+                <anio>1987</anio>
+                                
+                <editorial>Alianza Editorial</editorial>
+                            
+            </publicacion>
+                        
+            <historial/>
+                    
+        </libro>
+            
+    </seccion>
+    
+</biblioteca>

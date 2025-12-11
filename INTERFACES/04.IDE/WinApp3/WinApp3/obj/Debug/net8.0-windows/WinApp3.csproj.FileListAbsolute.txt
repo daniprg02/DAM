@@ -1,0 +1,16 @@
+D:\Interfaces\04.IDE\WinApp3\WinApp3\bin\Debug\net8.0-windows\WinApp3.exe
+D:\Interfaces\04.IDE\WinApp3\WinApp3\bin\Debug\net8.0-windows\WinApp3.deps.json
+D:\Interfaces\04.IDE\WinApp3\WinApp3\bin\Debug\net8.0-windows\WinApp3.runtimeconfig.json
+D:\Interfaces\04.IDE\WinApp3\WinApp3\bin\Debug\net8.0-windows\WinApp3.dll
+D:\Interfaces\04.IDE\WinApp3\WinApp3\bin\Debug\net8.0-windows\WinApp3.pdb
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.Form1.resources
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.csproj.GenerateResource.cache
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.AssemblyInfoInputs.cache
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.AssemblyInfo.cs
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.csproj.CoreCompileInputs.cache
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.dll
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\refint\WinApp3.dll
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.pdb
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\WinApp3.genruntimeconfig.cache
+D:\Interfaces\04.IDE\WinApp3\WinApp3\obj\Debug\net8.0-windows\ref\WinApp3.dll

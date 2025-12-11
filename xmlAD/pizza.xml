@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pizzeria>
+    <pedidos>
+        <pedido id="A001" fecha="2025-10-20" estado="preparacion">
+            <cliente id="C101">
+                <nombre>Ana Pérez</nombre>
+                <telefono>600123123</telefono>
+            </cliente>
+            <lineas>
+                <linea>
+                    <producto>Pizza Margarita</producto>
+                    <tamano>mediana</tamano>
+                    <cantidad>1</cantidad>
+                    <precio_unitario>8.50</precio_unitario>
+                </linea>
+                <linea>
+                    <producto>Refresco</producto>
+                    <tamano>lata</tamano>
+                    <cantidad>2</cantidad>
+                    <precio_unitario>1.20</precio_unitario>
+                </linea>
+            </lineas>
+            <total calculado="false">0.00</total>
+        </pedido>
+        <pedido id="A002" fecha="2025-10-21" estado="entregado">
+            <cliente id="C102">
+                <nombre>Javi López</nombre>
+                <telefono>644555777</telefono>
+            </cliente>
+            <lineas>
+                <linea>
+                    <producto>Pizza 4 Quesos</producto>
+                    <tamano>grande</tamano>
+                    <cantidad>1</cantidad>
+                    <precio_unitario>12.90</precio_unitario>
+                </linea>
+            </lineas>
+            <total calculado="true">12.93</total>
+        </pedido>
+    </pedidos>
+</pizzeria>

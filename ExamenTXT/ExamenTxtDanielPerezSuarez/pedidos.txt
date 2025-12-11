@@ -1,0 +1,148 @@
+# comentario auto-generado 1
+P-2025-0001;2025-01-15;Wayne Enterprises;Hub USB-C;9;87.47
+P-2025-0002;2025-03-19;Globex;Alfombrilla gaming;9;41.77
+P-2025-9999;2025-03-10;Initech;Ratón inalámbrico;0;35.50
+P-2025-0003;2025-02-07;Acme Corp;Ratón inalámbrico;10;259.75
+P-2025-0004;2025-03-27;Initech;Ratón inalámbrico;7;18.33
+P-2025-0005;2025-01-23;Acme Corp;Ratón inalámbrico;3;207.61
+P-2025-0006;2025-01-11;Globex;Alfombrilla gaming;10;135.08
+P-2025-0007;2025-02-16;Umbrella;Webcam HD;1;212.14
+P-2025-0008;2025-03-12;Stark Industries;Alfombrilla gaming;2;51.73
+P-2025-0009;2025-03-30;Acme Corp;Teclado mecánico;4;140.93
+P-2025-0010;2025-01-26;Stark Industries;Monitor 27";6;99.87
+P-2025-0011;2025-02-08;Umbrella;Webcam HD;8;83.7
+P-2025-0012;2025-02-01;Globex;Hub USB-C;2;148.17
+P-2025-0013;2025-02-06;Stark Industries;Auriculares Pro;5;289.72
+# comentario auto-generado 2
+P-2025-0014;2025-03-13;Umbrella;Hub USB-C;4;48.68
+P-2025-0015;2025-01-15;Cyberdyne;Webcam HD;6;115.61
+P-2025-0016;2025-03-07;Wayne Enterprises;Monitor 27";8;57.61
+P-2025-0017;2025-03-26;Stark Industries;Webcam HD;3;224.61
+P-2025-0018;2025-03-10;Globex;Ratón inalámbrico;2;46.17
+P-2025-0019;2025-03-25;Umbrella;Alfombrilla gaming;4;132.5
+P-2025-0020;2025-02-07;Acme Corp;Auriculares Pro;2;197.1
+P-2025-0021;2025-03-30;Initech;Webcam HD;8;128.1
+P-2025-0022;2025-03-09;Cyberdyne;Monitor 27";10;177.47
+P-2025-0023;2025-01-13;Globex;Ratón inalámbrico;9;246.49
+P-2025-0024;2025-01-15;Stark Industries;Teclado mecánico;8;243.99
+P-2025-10000;2025-03-11;Acme Corp;Hub USB-C;-3;50.00
+P-2025-0025;2025-03-20;Initech;Soporte monitor;2;179.57
+P-2025-0026;2025-03-25;Umbrella;Teclado mecánico;9;98.85
+# comentario auto-generado 3
+P-2025-0027;2025-01-25;Stark Industries;Ratón inalámbrico;9;140.26
+P-2025-0028;2025-01-09;Cyberdyne;Alfombrilla gaming;10;164.37
+P-2025-0029;2025-02-28;Wayne Enterprises;Alfombrilla gaming;10;209.33
+P-2025-0030;2025-01-23;Globex;Auriculares Pro;3;151.83
+P-2025-0031;2025-02-05;Initech;Webcam HD;10;190.34
+P-2025-0032;2025-01-02;Cyberdyne;Auriculares Pro;6;18.14
+P-2025-0033;2025-01-27;Cyberdyne;Webcam HD;4;118.71
+P-2025-0034;2025-02-11;Acme Corp;Webcam HD;10;243.35
+P-2025-10001;2025-03-12;Globex;Monitor 27";4;-59.90
+P-2025-0035;2025-03-31;Stark Industries;Monitor 27";6;151.32
+P-2025-0036;2025-01-16;Wayne Enterprises;Monitor 27";4;30.85
+P-2025-0037;2025-01-15;Acme Corp;Ratón inalámbrico;3;212.36
+P-2025-0038;2025-03-06;Globex;Monitor 27";1;277.84
+P-2025-0039;2025-01-19;Cyberdyne;Monitor 27";3;257.03
+# comentario auto-generado 4
+P-2025-0040;2025-03-28;Umbrella;Teclado mecánico;7;134.43
+P-2025-0041;2025-02-27;Globex;Soporte monitor;7;140.47
+P-2025-0042;2025-03-09;Stark Industries;Webcam HD;1;219.15
+P-2025-0043;2025-02-03;Wayne Enterprises;Monitor 27";7;87.49
+P-2025-0044;2025-03-01;Wayne Enterprises;Alfombrilla gaming;3;21.58
+P-2025-10002;fecha-invalida;Initech;Teclado mecánico;2;80.50
+P-2025-0045;2025-03-17;Umbrella;Soporte monitor;5;282.32
+P-2025-0046;2025-02-27;Cyberdyne;Ratón inalámbrico;9;118.6
+P-2025-0047;2025-03-24;Umbrella;Ratón inalámbrico;4;270.02
+P-2025-0048;2025-02-19;Wayne Enterprises;Hub USB-C;5;90.62
+P-2025-0049;2025-01-16;Wayne Enterprises;Auriculares Pro;6;141.51
+P-2025-0050;2025-02-01;Umbrella;Teclado mecánico;7;186.93
+P-2025-0051;2025-02-10;Cyberdyne;Auriculares Pro;5;208.66
+P-2025-0052;2025-02-12;Umbrella;Hub USB-C;10;76.34
+# comentario auto-generado 5
+P-2025-0053;2025-03-21;Cyberdyne;Auriculares Pro;6;81.02
+P-2025-0054;2025-03-03;Initech;Teclado mecánico;8;124.98
+delimitadores incorrectos
+P-2025-0055;2025-02-16;Initech;Soporte monitor;9;195.41
+P-2025-0056;2025-03-04;Wayne Enterprises;Alfombrilla gaming;8;229.64
+P-2025-0057;2025-03-06;Acme Corp;Soporte monitor;4;157.63
+P-2025-0058;2025-02-26;Wayne Enterprises;Monitor 27";6;189.69
+P-2025-0059;2025-01-26;Umbrella;Soporte monitor;1;30.39
+P-2025-0060;2025-01-24;Initech;Soporte monitor;9;275.34
+P-2025-0061;2025-02-04;Cyberdyne;Hub USB-C;1;295.66
+P-2025-0062;2025-03-21;Umbrella;Ratón inalámbrico;2;270.65
+P-2025-0063;2025-03-16;Stark Industries;Soporte monitor;10;15.68
+P-2025-0064;2025-01-06;Acme Corp;Ratón inalámbrico;9;144.58
+P-2025-0065;2025-01-20;Umbrella;Ratón inalámbrico;10;298.12
+# comentario auto-generado 6
+P-2025-0066;2025-03-27;Initech;Auriculares Pro;9;40.6
+P-2025-0067;2025-01-13;Globex;Alfombrilla gaming;10;94.74
+P-2025-0068;2025-03-10;Wayne Enterprises;Alfombrilla gaming;2;86.21
+P-2025-0069;2025-01-03;Initech;Auriculares Pro;2;70.42
+P-2025-0070;2025-03-22;Cyberdyne;Hub USB-C;3;173.71
+P-2025-0071;2025-03-14;Wayne Enterprises;Ratón inalámbrico;8;66.76
+P-2025-0072;2025-03-23;Wayne Enterprises;Soporte monitor;4;121.73
+P-2025-0073;2025-03-08;Cyberdyne;Soporte monitor;7;45.81
+P-2025-0074;2025-01-26;Stark Industries;Monitor 27";10;261.11
+P-2025-0075;2025-02-25;Initech;Webcam HD;6;21.42
+P-2025-0076;2025-01-12;Wayne Enterprises;Webcam HD;1;130.26
+;;; ;;
+P-2025-0077;2025-02-07;Initech;Auriculares Pro;3;76.73
+P-2025-0078;2025-01-31;Initech;Ratón inalámbrico;9;256.27
+# comentario auto-generado 7
+P-2025-0079;2025-01-30;Cyberdyne;Auriculares Pro;5;155.55
+P-2025-0080;2025-01-27;Globex;Alfombrilla gaming;8;154.28
+P-2025-0081;2025-02-05;Umbrella;Monitor 27";3;221.4
+P-2025-0082;2025-03-13;Umbrella;Ratón inalámbrico;1;54.7
+P-2025-0083;2025-03-19;Stark Industries;Webcam HD;9;151.09
+P-2025-0084;2025-02-06;Globex;Auriculares Pro;3;214.69
+P-2025-0085;2025-02-20;Cyberdyne;Alfombrilla gaming;1;201.99
+P-2025-0086;2025-03-08;Initech;Webcam HD;3;179.42
+P-2025-10004;2025-03-19;;;150.00
+P-2025-0087;2025-03-21;Umbrella;Monitor 27";1;227.79
+P-2025-0088;2025-01-20;Stark Industries;Ratón inalámbrico;5;165.42
+P-2025-0089;2025-02-20;Cyberdyne;Auriculares Pro;9;273.36
+P-2025-0090;2025-02-08;Globex;Soporte monitor;9;192.88
+P-2025-0091;2025-01-22;Acme Corp;Alfombrilla gaming;4;113.32
+# comentario auto-generado 8
+P-2025-0092;2025-01-11;Cyberdyne;Soporte monitor;8;38.94
+P-2025-0093;2025-01-12;Acme Corp;Hub USB-C;10;74.94
+P-2025-0094;2025-02-09;Umbrella;Alfombrilla gaming;8;38.33
+P-2025-0095;2025-02-16;Cyberdyne;Alfombrilla gaming;3;231.64
+P-2025-0096;2025-03-26;Cyberdyne;Teclado mecánico;9;150.49
+P-2025-10005;2025-03-19;Globex;Webcam HD;texto;49.95
+P-2025-0097;2025-01-18;Cyberdyne;Auriculares Pro;5;120.35
+P-2025-0098;2025-01-22;Initech;Soporte monitor;10;245.85
+P-2025-0099;2025-01-04;Umbrella;Teclado mecánico;7;193.32
+P-2025-0100;2025-02-21;Umbrella;Alfombrilla gaming;6;61.07
+P-2025-0101;2025-03-15;Acme Corp;Monitor 27";5;202.96
+P-2025-0102;2025-01-02;Initech;Hub USB-C;6;224.59
+P-2025-0103;2025-02-04;Stark Industries;Alfombrilla gaming;9;86.79
+P-2025-0104;2025-02-01;Initech;Alfombrilla gaming;1;78.87
+# comentario auto-generado 9
+P-2025-0105;2025-03-02;Umbrella;Hub USB-C;2;248.63
+P-2025-0106;2025-01-27;Cyberdyne;Soporte monitor;5;292.95
+P-2025-10006;2025/03/10;Acme Corp;Auriculares Pro;2;120.00
+P-2025-0107;2025-01-03;Cyberdyne;Ratón inalámbrico;3;35.11
+P-2025-0108;2025-03-02;Initech;Hub USB-C;10;147.37
+P-2025-0109;2025-02-09;Acme Corp;Teclado mecánico;9;120.15
+P-2025-0110;2025-01-02;Initech;Hub USB-C;7;275.03
+P-2025-0111;2025-01-02;Acme Corp;Hub USB-C;1;35.11
+P-2025-0112;2025-02-23;Initech;Soporte monitor;4;190.43
+P-2025-0113;2025-02-13;Umbrella;Auriculares Pro;5;241.94
+P-2025-0114;2025-01-16;Initech;Auriculares Pro;9;141.77
+P-2025-0115;2025-03-12;Stark Industries;Teclado mecánico;10;93.86
+P-2025-0116;2025-01-01;Cyberdyne;Webcam HD;3;57.49
+P-2025-0117;2025-03-07;Acme Corp;Auriculares Pro;10;98.69
+# comentario auto-generado 10
+P-2025-0118;2025-03-13;Initech;Teclado mecánico;2;21.94
+P-2025-0119;2025-03-21;Umbrella;Auriculares Pro;1;253.52
+P-2025-0120;2025-03-10;Cyberdyne;Webcam HD;3;211.0
+P-2025-0121;2025-02-26;Umbrella;Hub USB-C;10;30.49
+P-2025-0122;2025-03-26;Stark Industries;Monitor 27";3;263.58
+P-2025-0123;2025-02-18;Stark Industries;Webcam HD;6;214.18
+P-2025-0124;2025-02-24;Umbrella;Monitor 27";2;235.14
+P-2025-0125;2025-02-22;Stark Industries;Soporte monitor;4;278.83
+P-2025-0126;2025-02-22;Stark Industries;Soporte monitor;3;230.7
+P-2025-0127;2025-02-10;Stark Industries;Teclado mecánico;7;298.05
+P-2025-0128;2025-03-25;Initech;Ratón inalámbrico;5;45.82
+P-2025-10007;2025-03-12;Stark Industries;Hub USB-C;5;

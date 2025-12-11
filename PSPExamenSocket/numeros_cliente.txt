@@ -1,0 +1,3 @@
+Albita: 4
+Albita: 99
+Albita: 722

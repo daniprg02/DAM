@@ -1,0 +1,14 @@
+D:\Interfaces\04.IDE\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Interfaces\04.IDE\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+D:\Interfaces\04.IDE\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+D:\Interfaces\04.IDE\Presentacion\Presentacion\bin\Debug\Negocio.dll
+D:\Interfaces\04.IDE\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.exe.config
+D:\Interfaces\04.IDE\Presentacion\Presentacion\obj\Debug\Presentacion.Form1.resources

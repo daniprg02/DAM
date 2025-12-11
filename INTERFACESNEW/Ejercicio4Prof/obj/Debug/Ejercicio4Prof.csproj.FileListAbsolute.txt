@@ -1,0 +1,11 @@
+D:\INTERFACESNEW\Ejercicio4Prof\bin\Debug\Ejercicio4Prof.exe.config
+D:\INTERFACESNEW\Ejercicio4Prof\bin\Debug\Ejercicio4Prof.exe
+D:\INTERFACESNEW\Ejercicio4Prof\bin\Debug\Ejercicio4Prof.pdb
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.Form1.resources
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.Properties.Resources.resources
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.csproj.GenerateResource.cache
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.exe
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.pdb
+D:\INTERFACESNEW\Ejercicio4Prof\obj\Debug\Ejercicio4Prof.exe.config

@@ -1,0 +1,12 @@
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\Negocio.dll
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\Negocio.pdb
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\Datos.dll
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\Datos.pdb
+D:\Emilio\C\03.EntityFramework\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Emilio\C\03.EntityFramework\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Emilio\C\03.EntityFramework\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\Emilio\C\03.EntityFramework\Negocio\obj\Debug\Negocio.dll
+D:\Emilio\C\03.EntityFramework\Negocio\obj\Debug\Negocio.pdb
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\EntityFramework.dll
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\Datos.dll.config
+D:\Emilio\C\03.EntityFramework\Negocio\bin\Debug\EntityFramework.xml

@@ -1,0 +1,11 @@
+D:\INTERFACESNEW\FormTema4.2\bin\Debug\FormTema4.2.exe.config
+D:\INTERFACESNEW\FormTema4.2\bin\Debug\FormTema4.2.exe
+D:\INTERFACESNEW\FormTema4.2\bin\Debug\FormTema4.2.pdb
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4.2.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4._2.Form1.resources
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4._2.Properties.Resources.resources
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4.2.csproj.GenerateResource.cache
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4.2.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4.2.exe
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4.2.pdb
+D:\INTERFACESNEW\FormTema4.2\obj\Debug\FormTema4.2.exe.config

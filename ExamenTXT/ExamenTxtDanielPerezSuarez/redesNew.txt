@@ -1,0 +1,25 @@
+=== RESUMEN POR EQUIPO ===
+EQUIPO-REDES
+- Operaciones: 4
+- Tiempo finalizado: 85 min
+- Categoría dominante: red
+
+EQUIPO-SISTEMAS
+- Operaciones: 5
+- Tiempo finalizado: 185 min
+- Categoría dominante: sistemas
+
+EQUIPO-SOFTWARE
+- Operaciones: 5
+- Tiempo finalizado: 105 min
+- Categoría dominante: software
+
+EQUIPO-MOVIL
+- Operaciones: 4
+- Tiempo finalizado: 95 min
+- Categoría dominante: movil
+
+=== RESUMEN GLOBAL ===
+- Total de operaciones: 18
+- Categoría más frecuente global: sistemas
+- Tiempo total finalizado global: 470 min

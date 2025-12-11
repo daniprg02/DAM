@@ -1,0 +1,12 @@
+D:\INTERFACESNEW\formsTema4\bin\Debug\formsTema4.exe.config
+D:\INTERFACESNEW\formsTema4\bin\Debug\formsTema4.exe
+D:\INTERFACESNEW\formsTema4\bin\Debug\formsTema4.pdb
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.frmFormulario.resources
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.Properties.Resources.resources
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.csproj.GenerateResource.cache
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.exe
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.pdb
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.exe.config
+D:\INTERFACESNEW\formsTema4\obj\Debug\formsTema4.Form2.resources

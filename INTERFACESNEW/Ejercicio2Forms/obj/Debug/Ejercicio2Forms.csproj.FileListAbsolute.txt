@@ -1,0 +1,11 @@
+D:\INTERFACESNEW\Ejercicio2Forms\bin\Debug\Ejercicio2Forms.exe.config
+D:\INTERFACESNEW\Ejercicio2Forms\bin\Debug\Ejercicio2Forms.exe
+D:\INTERFACESNEW\Ejercicio2Forms\bin\Debug\Ejercicio2Forms.pdb
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.Form1.resources
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.Properties.Resources.resources
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.csproj.GenerateResource.cache
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.exe
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.pdb
+D:\INTERFACESNEW\Ejercicio2Forms\obj\Debug\Ejercicio2Forms.exe.config

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vehiculos>
+        
+    <vehiculo disponible="true" id="V-500" tipo="SUV">
+                
+        <marca>Toyota</marca>
+                
+        <modelo>jajaja</modelo>
+                
+        <anio>2020</anio>
+                
+        <precio>32000</precio>
+                
+        <alquileres>
+                        
+            <alquiler fecha="2024-09-12" usuario="U-122"/>
+                        
+            <alquiler fecha="2024-10-04" usuario="U-090"/>
+                    
+        </alquileres>
+            
+    </vehiculo>
+        
+
+    
+    <vehiculo disponible="false" id="V-502" tipo="Compacto">
+                
+        <marca>Honda</marca>
+                
+        <modelo>Civic</modelo>
+                
+        <anio>2019</anio>
+                
+        <precio>21000</precio>
+                
+        <alquileres>
+            <alquiler fecha="2025-12-05" usuario="Usuario600"/>
+        </alquileres>
+            
+    </vehiculo>
+    
+</vehiculos>

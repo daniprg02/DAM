@@ -1,0 +1,8 @@
+D:\INTERFACESNEW\examenDanielPerezSuarez\bin\Debug\examenDanielPerezSuarez.exe.config
+D:\INTERFACESNEW\examenDanielPerezSuarez\bin\Debug\examenDanielPerezSuarez.exe
+D:\INTERFACESNEW\examenDanielPerezSuarez\bin\Debug\examenDanielPerezSuarez.pdb
+D:\INTERFACESNEW\examenDanielPerezSuarez\obj\Debug\examenDanielPerezSuarez.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\examenDanielPerezSuarez\obj\Debug\examenDanielPerezSuarez.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\examenDanielPerezSuarez\obj\Debug\examenDanielPerezSuarez.exe
+D:\INTERFACESNEW\examenDanielPerezSuarez\obj\Debug\examenDanielPerezSuarez.pdb
+D:\INTERFACESNEW\examenDanielPerezSuarez\obj\Debug\examenDanielPerezSuarez.exe.config

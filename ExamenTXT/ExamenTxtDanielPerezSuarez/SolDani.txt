@@ -1,0 +1,12 @@
+SOLUCIÓN - Estadísticas de pedidos
+a) Número de pedidos válidos: 128
+b) Número de líneas inválidas: 10
+c) Pedidos por cliente:
+- Initech: 22
+- Globex: 12
+- Wayne Enterprises: 14
+- Acme Corp: 14
+- Umbrella: 24
+- Cyberdyne: 23
+- Stark Industries: 19
+d) Número de pedidos (válidos) en Enero: 41

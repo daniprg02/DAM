@@ -1,0 +1,13 @@
+D:\INTERFACESNEW\FormularioEjerciciosProf\bin\Debug\FormularioEjerciciosProf.exe.config
+D:\INTERFACESNEW\FormularioEjerciciosProf\bin\Debug\FormularioEjerciciosProf.exe
+D:\INTERFACESNEW\FormularioEjerciciosProf\bin\Debug\FormularioEjerciciosProf.pdb
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.Form1.resources
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.Form2.resources
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.Form3.resources
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.Properties.Resources.resources
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.csproj.GenerateResource.cache
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.exe
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.pdb
+D:\INTERFACESNEW\FormularioEjerciciosProf\obj\Debug\FormularioEjerciciosProf.exe.config

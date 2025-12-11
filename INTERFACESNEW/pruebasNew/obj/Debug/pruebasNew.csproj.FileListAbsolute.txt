@@ -1,0 +1,8 @@
+D:\INTERFACESNEW\pruebasNew\bin\Debug\pruebasNew.exe.config
+D:\INTERFACESNEW\pruebasNew\bin\Debug\pruebasNew.exe
+D:\INTERFACESNEW\pruebasNew\bin\Debug\pruebasNew.pdb
+D:\INTERFACESNEW\pruebasNew\obj\Debug\pruebasNew.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\pruebasNew\obj\Debug\pruebasNew.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\pruebasNew\obj\Debug\pruebasNew.exe
+D:\INTERFACESNEW\pruebasNew\obj\Debug\pruebasNew.pdb
+D:\INTERFACESNEW\pruebasNew\obj\Debug\pruebasNew.exe.config

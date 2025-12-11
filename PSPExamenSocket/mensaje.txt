@@ -1,0 +1,3 @@
+MSG: Daniiiiii y Mohaaa
+MSG: Hola, es una pruebaaaa
+MSG: FILE mensaje.txt

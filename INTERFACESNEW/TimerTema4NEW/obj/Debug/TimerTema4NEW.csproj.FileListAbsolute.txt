@@ -1,0 +1,11 @@
+D:\INTERFACESNEW\TimerTema4NEW\bin\Debug\TimerTema4NEW.exe.config
+D:\INTERFACESNEW\TimerTema4NEW\bin\Debug\TimerTema4NEW.exe
+D:\INTERFACESNEW\TimerTema4NEW\bin\Debug\TimerTema4NEW.pdb
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.Form1.resources
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.Properties.Resources.resources
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.csproj.GenerateResource.cache
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.exe
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.pdb
+D:\INTERFACESNEW\TimerTema4NEW\obj\Debug\TimerTema4NEW.exe.config

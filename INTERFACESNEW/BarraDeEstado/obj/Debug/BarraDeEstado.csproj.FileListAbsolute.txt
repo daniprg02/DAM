@@ -1,0 +1,11 @@
+D:\INTERFACESNEW\BarraDeEstado\bin\Debug\BarraDeEstado.exe.config
+D:\INTERFACESNEW\BarraDeEstado\bin\Debug\BarraDeEstado.exe
+D:\INTERFACESNEW\BarraDeEstado\bin\Debug\BarraDeEstado.pdb
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.csproj.AssemblyReference.cache
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.Form1.resources
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.Properties.Resources.resources
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.csproj.GenerateResource.cache
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.csproj.CoreCompileInputs.cache
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.exe
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.pdb
+D:\INTERFACESNEW\BarraDeEstado\obj\Debug\BarraDeEstado.exe.config

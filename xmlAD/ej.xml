@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Compras>
+    <Compra id="1">
+        <fecha>2025-10-22</fecha>
+        <ubicacion>Madrid</ubicacion>
+        <articulos cantidad="3">
+            <articulo nombre="Pan" precio="1.20"/>
+            <articulo nombre="Leche" precio="0.90"/>
+            <articulo nombre="Huevos" precio="2.10"/>
+        </articulos>
+    </Compra>
+
+    <Compra id="2">
+        <fecha>2025-10-23</fecha>
+        <ubicacion>Barcelona</ubicacion>
+        <articulos cantidad="2">
+            <articulo nombre="Manzanas" precio="3.50"/>
+            <articulo nombre="Cereal" precio="4.20"/>
+        </articulos>
+    </Compra>
+</Compras>
